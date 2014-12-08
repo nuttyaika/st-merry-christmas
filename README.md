@@ -15,11 +15,11 @@ There is an icon too.
 
 ## Installation
 
- ### Git or Manual Install
+### Git or Manual Install
 
     git clone https://github.com/nuttyaika/st-merry-chirstmas
 
-[Download the .zip]()
+[Download the .zip](https://github.com/nuttyaika/st-merry-chirstmas/archive/master.zip)
 
 1. Unzip the files and rename the folder to `MerryChristmas`
 2. Copy the folder into `Pakages -> User` directory. You can find using the menu item `Preferences -> Browse Packages...`
